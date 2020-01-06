@@ -32,4 +32,6 @@ public class Time {
     @OneToMany(fetch = FetchType.EAGER)
     
     private Collection<Showtime> showtime;
+    //ddddddddddddd
+    int x;
 }
